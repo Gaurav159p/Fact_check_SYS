@@ -72,11 +72,11 @@ npm run dev
 
 🗺️ Roadmap
 
- User accounts (Email / Google)
- Saved history & bookmarks
- Truth-score analytics & heatmaps
- Multi-language support
- Deepfake image & video detection
+User accounts (Email / Google)
+Saved history & bookmarks
+Truth-score analytics & heatmaps
+Multi-language support
+Deepfake image & video detection
 
 📫 Feedback & Contributions
 
