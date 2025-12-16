@@ -47,7 +47,7 @@ User can save or bookmark results (future feature).
 
 🛠️ Running the Project Locally
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/Gaurav159p/Fact_check_SYS>
 cd <PROJECT_FOLDER>
 
 # Install dependencies
