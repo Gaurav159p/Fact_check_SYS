@@ -8,39 +8,28 @@ Built with React, Vite, TypeScript, Tailwind CSS, and shadcn-ui, the app focuses
 📄 Text & PDF Input
 
 Upload PDF documents or manually enter text
-
 Automatic text extraction from PDFs
-
 Supports news headlines, articles, and claims
 
 🤖 AI-Powered Fact Verification
 
 Each claim is analyzed by an AI fact-checking engine that produces:
-
 Truth Score (0–100)
-
 Verdict: Real / Partially True / Fake / Unverified
-
 Explanation & reasoning
-
 Supporting evidence summary
 
 🔐 User Accounts (Coming Soon)
 
 Sign up / Login
-
 Save fact-check history
-
 Bookmark important verifications
-
 Sync data across devices
 
 🎨 Modern UI/UX
 
 Clean and responsive design
-
 Smooth animations with shadcn-ui
-
 Dark-mode friendly interface
 
 🧩 Tech Stack
@@ -60,24 +49,15 @@ AI Backend — Fact-checking model / API
 🧪 How It Works
 
 User uploads a PDF or enters text manually
-
 Text is extracted (for PDFs)
-
 Content is sent to the AI engine
-
 AI evaluates the claim against verified sources
-
 The system returns:
-
 Truth Score
-
 Verdict
-
 Explanation
-
 Evidence summary
 
-(Saving and bookmarking will be added in future updates.)
 
 🛠️ Running the Project Locally
 # Clone the repository
@@ -89,17 +69,6 @@ npm install
 
 # Start the development server
 npm run dev
-
-🌐 Deployment
-
-You can deploy the project easily using Lovable.dev:
-
-Open the project in Lovable
-
-Click Share → Publish
-
-(Optional) Add a custom domain via
-Project → Settings → Domains → Connect Domain
 
 🗺️ Roadmap
 
