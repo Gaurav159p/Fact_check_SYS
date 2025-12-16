@@ -5,6 +5,7 @@ AI Fact Checker is a smart misinformation detection web application that verifie
 Built with React, Vite, TypeScript, Tailwind CSS, and shadcn-ui, the app focuses on speed, clarity, and modern UI/UX.
 
 🚀 Features
+
 📄 Text & PDF Input
 
 Upload PDF documents or manually enter text
