@@ -82,8 +82,12 @@ Evidence summary
 
 🛠️ Running the Project Locally
 # Clone the repository
+```
 git clone <https://github.com/Gaurav159p/Fact_check_SYS>
+```
+```
 cd <\Fact_Check>
+```
 
 # Install dependencies
 npm install
